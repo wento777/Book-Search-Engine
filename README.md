@@ -130,7 +130,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
   # This project has been deployed to GitHub, here is the link:
   
-  * 
+  * https://github.com/wento777/Book-Search-Engine
 
 
   # Team-Profile-Generator-OOP Screenshots
